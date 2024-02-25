@@ -128,31 +128,32 @@ print("\nLenght of X_test ",len(X_test))
 ## OUTPUT:
 
 ### DATA CHECKING:
-![OUTPUT](/dchecking.png)
+![dchecking](https://github.com/chaitanya18c/Ex-1-NN/assets/119392724/59487138-7238-49dc-bd70-c2cd756fa681)
+
 
 ### MISSING DATA:
-![OUTPUT](/missingD.png)
+![missingD](https://github.com/chaitanya18c/Ex-1-NN/assets/119392724/4ed11ad1-66e2-4dc7-ba24-09a1a1b79881)
 
 ### DUPLICATES IDENTIFICATION:
-![OUTPUT](/duplicates.png)
+![duplicates](https://github.com/chaitanya18c/Ex-1-NN/assets/119392724/9ba06ec2-7e58-459d-872c-98c9ba819b38)
 
 ### VALUE OF Y:
-![OUTPUT](/valuesY.png)
+![valuesY](https://github.com/chaitanya18c/Ex-1-NN/assets/119392724/8da0675d-f15e-4537-9c13-0c0fc21e9cc0)
 
 ### OUTLIERS:
-![OUTPUT](/outliers.png)
+![outliers](https://github.com/chaitanya18c/Ex-1-NN/assets/119392724/bdcf5f34-4159-4d95-b318-ef33d52044a8)
 
 ### CHECKING DATASET AFTER DROPPING STRING VALUES DATA FROM DATASET:
-![OUTPUT](/afterDrop.png)
+![afterDrop](https://github.com/chaitanya18c/Ex-1-NN/assets/119392724/d7d78c92-fb24-4f63-9ee8-c0efde12ada1)
 
 ### NORMALIZE THE DATASET:
-![OUTPUT](/Normalize.png)
+![Normalize](https://github.com/chaitanya18c/Ex-1-NN/assets/119392724/41db4834-3565-402c-a304-904498bb78b5)
 
 ### SPLIT THE DATASET:
-![OUTPUT](/SplitData.png)
+![SplitData](https://github.com/chaitanya18c/Ex-1-NN/assets/119392724/aa482c99-3b91-404c-aa15-86b7c34baf81)
 
 ### TRAINING AND TESTING MODEL:
-![OUTPUT](/TrainingData.png)
+![TrainingData](https://github.com/chaitanya18c/Ex-1-NN/assets/119392724/74caf344-566d-4517-b76a-2c730c73082e)
 
 ## RESULT:
 Thus, Implementation of Data Preprocessing is done in python  using a data set downloaded from Kaggle.
